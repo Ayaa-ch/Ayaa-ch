@@ -20,7 +20,7 @@
 
 I'm a 5th-year engineering student specialising in **Data Science, Big Data and Artificial Intelligence** at ENSA Tétouan (National School of Applied Sciences).
 
-I like turning data into practical solutions. That means building the full chain: collecting and cleaning data, processing it at scale, training or applying models, and wrapping the result in an application people can actually use. Most of my recent work sits at the intersection of **NLP** and **retrieval-augmented generation (RAG)**, with a strong preference for solutions that run **locally** and respect data privacy.
+I like turning data into practical solutions. That means building the full chain: collecting and cleaning data, processing it at scale, training or applying models, and wrapping the result in an application people can actually use. 
 
 ### 🔭 What I'm focused on
 
@@ -81,6 +81,9 @@ I like turning data into practical solutions. That means building the full chain
 ---
 
 ### 💊 Bio-Sentry: drug side-effect detection (Web Mining)
+<a href="https://github.com/Ayaa-ch/Biosentry-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayaa-ch&repo=Biosentry-project&theme=tokyonight&hide_border=true" />
+</a>
 
 > Mining the web to spot adverse drug effects.
 
@@ -92,7 +95,9 @@ I like turning data into practical solutions. That means building the full chain
 **Stack:** Python · Web Scraping (BeautifulSoup, Selenium) · BioBERT · NLP
 
 ---
-
+<a href="https://github.com/Ayaa-ch/NOM_DU_REPO">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayaa-ch&repo=NOM_DU_REPO&theme=tokyonight&hide_border=true" />
+</a>
 ### 🏦 Real-time banking fraud detection (Big Data)
 
 > A streaming pipeline that flags suspicious transactions as they happen.
@@ -136,16 +141,6 @@ I like turning data into practical solutions. That means building the full chain
  - French 
  - English 
 
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayaa-ch&show_icons=true&theme=default&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaa-ch&layout=compact&hide_border=true" />
-</p>
-
 ---
 
 ## 📫 Let's connect
@@ -153,7 +148,7 @@ I like turning data into practical solutions. That means building the full chain
 <p>
   <a href="mailto:aya.c.chakour@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/aya-chakour-3789ab330/?isSelfProfile=true)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://TON_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://TON_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   </p>
 
 <p align="center"><i>Thanks for stopping by! ⭐</i></p>
