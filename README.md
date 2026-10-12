@@ -32,6 +32,15 @@ I like turning data into practical solutions. That means building the full chain
 - **Cloud computing** (AWS) and data engineering workflows
 
 ---
+## 🎓 Background
+
+**ENSA Tétouan: Engineering Cycle in Big Data & Artificial Intelligence** *(2024 – Present)*
+Engineering program where I learn to design data-driven systems from start to finish. I work with databases, Big Data frameworks, machine learning and NLP, and apply them in hands-on projects such as RAG assistants, streaming pipelines and AI-based quality control.
+
+**ENSA Tétouan: Integrated Preparatory Classes** *(2022 – 2024)*
+Two years of intensive training in mathematics, physics and computer science. They gave me the analytical thinking and problem-solving habits I now rely on in the engineering cycle.
+
+---
 
 ## 🚀 Featured Projects
 
@@ -109,14 +118,6 @@ I like turning data into practical solutions. That means building the full chain
 
 ---
 
-## 🎓 Education
-
-| Period | Program |
-|---|---|
-| Sep 2024 – present | Engineering cycle, 3rd year, **Big Data & Artificial Intelligence**, ENSA Tétouan |
-| Sep 2022 – 2024 | **Integrated Preparatory Classes**, ENSA Tétouan |
-
----
 
 ## 📜 Certifications
 
@@ -129,11 +130,9 @@ I like turning data into practical solutions. That means building the full chain
 ---
 
 ## 🌍 Languages
-
-### Language 
- Arabic 
- French 
- English 
+ - Arabic 
+ - French 
+ - English 
 
 
 ---
@@ -151,7 +150,7 @@ I like turning data into practical solutions. That means building the full chain
 
 <p>
   <a href="mailto:aya.c.chakour@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/aya-chakour-3789ab330/?isSelfProfile=true)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Thanks for stopping by! ⭐</i></p>
