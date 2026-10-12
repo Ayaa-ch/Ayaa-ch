@@ -47,7 +47,7 @@ I like turning data into practical solutions. That means building the full chain
 
 ## 🚀 Featured Projects
 
-[### 📚 LinguaDocs: multilingual RAG document assistant (FR / EN / AR)](https://github.com/Ayaa-ch/linguadocs)
+### 📚 [LinguaDocs: multilingual RAG document assistant (FR / EN / AR)](https://github.com/Ayaa-ch/linguadocs)
 
 > A fully local assistant that answers questions about your own documents, in French, English and Arabic.
 
