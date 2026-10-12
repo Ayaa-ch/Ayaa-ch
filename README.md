@@ -66,7 +66,7 @@ I like turning data into practical solutions. That means building the full chain
 
 ---
 
-### 🧪 Educational QA: AI quality-control pipeline for school documents
+### 🧪 [Educational QA: AI quality-control pipeline for school documents](https://github.com/Ayaa-ch/qa_pedagogique)
 
 > A local pipeline that checks and repairs educational content automatically.
 
@@ -80,10 +80,8 @@ I like turning data into practical solutions. That means building the full chain
 
 ---
 
-### 💊 Bio-Sentry: drug side-effect detection (Web Mining)
-<a href="https://github.com/Ayaa-ch/Biosentry-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayaa-ch&repo=Biosentry-project&theme=tokyonight&hide_border=true" />
-</a>
+### 💊 [Bio-Sentry: drug side-effect detection (Web Mining)](https://github.com/Ayaa-ch/Biosentry-project)
+
 
 > Mining the web to spot adverse drug effects.
 
@@ -95,10 +93,8 @@ I like turning data into practical solutions. That means building the full chain
 **Stack:** Python · Web Scraping (BeautifulSoup, Selenium) · BioBERT · NLP
 
 ---
-<a href="https://github.com/Ayaa-ch/NOM_DU_REPO">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ayaa-ch&repo=NOM_DU_REPO&theme=tokyonight&hide_border=true" />
-</a>
-### 🏦 Real-time banking fraud detection (Big Data)
+
+### 🏦 [Real-time banking fraud detection (Big Data)](https://github.com/Ayaa-ch/streaming-fraud-detection)
 
 > A streaming pipeline that flags suspicious transactions as they happen.
 
