@@ -46,7 +46,7 @@ I like turning data into practical solutions. That means building the full chain
 
 ## 🚀 Featured Projects
 
-### 📚 LinguaDocs: multilingual RAG document assistant (FR / EN / AR)
+[### 📚 LinguaDocs: multilingual RAG document assistant (FR / EN / AR)](https://github.com/Ayaa-ch/linguadocs)
 
 > A fully local assistant that answers questions about your own documents, in French, English and Arabic.
 
@@ -66,7 +66,7 @@ I like turning data into practical solutions. That means building the full chain
 
 ---
 
-### 🧪 [Educational QA: AI quality-control pipeline for school documents](https://github.com/Ayaa-ch/qa_pedagogique)
+### 🧪 [Educational QA: AI quality-control pipeline for school documents](https://github.com/Ayaa-ch/qa-pedagogique)
 
 > A local pipeline that checks and repairs educational content automatically.
 
