@@ -34,11 +34,13 @@ I like turning data into practical solutions. That means building the full chain
 ---
 ## 🎓 Background
 
-**ENSA Tétouan: Engineering Cycle in Big Data & Artificial Intelligence** *(2024 – Present)*
-Engineering program where I learn to design data-driven systems from start to finish. I work with databases, Big Data frameworks, machine learning and NLP, and apply them in hands-on projects such as RAG assistants, streaming pipelines and AI-based quality control.
+🔹 **2024 – Present** · ENSA Tétouan
+> **Engineering Cycle: Big Data & Artificial Intelligence**
+> Learning to design data-driven systems from start to finish, with hands-on projects in RAG, streaming and AI-based quality control.
 
-**ENSA Tétouan: Integrated Preparatory Classes** *(2022 – 2024)*
-Two years of intensive training in mathematics, physics and computer science. They gave me the analytical thinking and problem-solving habits I now rely on in the engineering cycle.
+🔹 **2022 – 2024** · ENSA Tétouan
+> **Integrated Preparatory Classes**
+> Intensive foundation in mathematics, physics and computer science, focused on analytical thinking and problem-solving.
 
 ---
 
@@ -140,8 +142,8 @@ Two years of intensive training in mathematics, physics and computer science. Th
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayaa-ch&show_icons=true&theme=default&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayaa-ch&layout=compact&hide_border=true" />
 </p>
 
 ---
@@ -151,6 +153,7 @@ Two years of intensive training in mathematics, physics and computer science. Th
 <p>
   <a href="mailto:aya.c.chakour@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/aya-chakour-3789ab330/?isSelfProfile=true)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+  <a href="https://TON_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  </p>
 
 <p align="center"><i>Thanks for stopping by! ⭐</i></p>
